@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nld1701
 - 👀 I’m interested in Cyber/Information Security 
 - 🌱 I’m currently learning neural networks on my own outside of pursuing my BS in CyberSecurity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me ...
 
 <!---
